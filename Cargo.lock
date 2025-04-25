@@ -1674,6 +1674,7 @@ dependencies = [
 [[package]]
 name = "wasm-pack"
 version = "0.13.1"
+source = "git+https://github.com/BenLocal/wasm-pack?branch=wx#77c38cd2e28ace53277909754d96efabb396a60c"
 dependencies = [
  "anyhow",
  "binary-install",

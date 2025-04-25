@@ -11,4 +11,4 @@ clap = { version = "4.2.5", features = ["derive"] }
 human-panic = "1.0.3"
 
 [patch.crates-io]
-wasm-pack = { path = "/root/workspace/master/wasm-pack" }
+wasm-pack = { git = "https://github.com/BenLocal/wasm-pack", branch = "wx" }
